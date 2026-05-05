@@ -1,6 +1,6 @@
 for(int i=0;i<10;i++) {
     #ifdef INNER_LOOP
-    printf("i = %d\n",(i));
+        printf("i = %d\n",(i));
     #endif
 
     #ifdef ALL
